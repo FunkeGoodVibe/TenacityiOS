@@ -6,4 +6,5 @@ Project taken from second github account so final project only displayed on this
 
 
     Please download Dr Josh Video Tutorial 
-    For a very, very general overview how the app functions
+    
+For a very, very general overview how the app functions
