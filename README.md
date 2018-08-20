@@ -9,3 +9,10 @@ We presented the completed project to our client at the end of March 2018.
     
 
 Please note, this project (Kanban board + code commits) were completed on a different github account. 
+
+----
+
+Similar Apps / Apps used for project research include: 
+
+https://www.peanut-app.io/
+https://hoop.co.uk/
