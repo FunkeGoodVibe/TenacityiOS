@@ -9,6 +9,7 @@ We presented the completed project to our client at the end of March 2018.
     
 
 Or click: https://bit.ly/2Mn49z4
+
 To view the inital brief : https://bit.ly/2MrxyrR  |  https://bit.ly/2nTn8CC 
 
 Please note, this project (Kanban board + code commits) were completed on a different github account. 
