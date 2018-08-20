@@ -15,4 +15,5 @@ Please note, this project (Kanban board + code commits) were completed on a diff
 Similar Apps / Apps used for project research include: 
 
 https://www.peanut-app.io/
+
 https://hoop.co.uk/
