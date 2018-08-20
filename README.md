@@ -18,15 +18,16 @@ Please note, this project (including the Kanban board + code commits) were compl
 
 ----
 
+code: swift (iOS), java/xml (android)
+
+server: firebase 
+
+----
+
 Similar Apps / Apps used for project research include: 
 
 https://www.peanut-app.io/
 
 https://hoop.co.uk/
 
-----
-
-code: swift (iOS), java/xml (android)
-
-server: firebase 
 
