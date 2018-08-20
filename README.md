@@ -8,7 +8,7 @@ We presented the completed project to our client at the end of March 2018.
     Download Dr Josh Video Tutorial 
     
 
-Or click: https://bit.ly/2Mn49z4
+Or click https://bit.ly/2Mn49z4 to view the demo video.
 
 To view the inital brief : https://bit.ly/2MrxyrR  |  https://bit.ly/2nTn8CC 
 
