@@ -1,5 +1,6 @@
 # TenacityiOS
 Being A Parent App for NHS Clinical Psychologist Client 
+Organisation: http://www.cpcs.org.uk/index.php?page=empowering-parents-empowering-communities
 
 This project began January 2018. 
 We presented the completed project to our client at the end of March 2018. 
